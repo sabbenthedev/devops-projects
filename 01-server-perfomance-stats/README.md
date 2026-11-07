@@ -1,11 +1,11 @@
 # server-stats.sh
 
-A lightweight, no-bullshit bash script that gives you a quick health check of your Linux server. No complex parsing, no heavy third-party monitoring tools—just native commands that get the job done out of the box.
+a lightweight, no-bullshit bash script that gives you a quick health check of your Linux server. No complex parsing, no heavy third-party monitoring tools—just native commands that get the job done out of the box.
 
 ## what it does
 
 the script runs in your terminal and prints a clean report covering:
-- **system & uptime:** os version, current uptime, and load averages.
+- **system & uptime:** current uptime, and load averages.
 - **active users & security:** who is currently logged in and recent failed login attempts.
 - **cpu usage:** overall system cpu utilization.
 - **memory usage:** total, used, and free RAM including percentages.
