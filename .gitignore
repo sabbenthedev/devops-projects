@@ -1,0 +1,28 @@
+# Secrets, Keys & Credentials
+*.pem
+*.key
+*.crt
+*.id_rsa
+*.id_ed25519
+*.pub
+
+# Environment Files & Configurations
+.env
+.env.*
+!.env.example
+
+# Infrastructure & State
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# Runtime Data & System Logs
+*.log
+*.sqlite
+*.db
+
+# Temporary & Editor Files
+*~
+*.swp
+.DS_Store
+.vscode/
