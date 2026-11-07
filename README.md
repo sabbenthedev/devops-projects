@@ -11,4 +11,4 @@ a monorepo tracking practical linux system administration, cloud infrastructure,
 ## projects index
 
 ### 1. linux & system administration
-- [01-server-performance-stats](./01-server-performance-stats): cli utility for real-time cpu, memory, disk, and process analysis.
+- [01-server-performance-stats](https://github.com/sabbenthedev/devops-projects/tree/main/01-server-perfomance-stats): cli utility for real-time cpu, memory, disk, and process analysis.
